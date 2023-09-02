@@ -1,16 +1,18 @@
-### Hi there 👋
+## 	:raising_hand_man: Hey, I'm Maitra.
 
-<!--
-**MaiTra10/MaiTra10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mortar_board: I am a 3rd year Software Engineering student at the University of Calgary with an interest in backend development!
 
-Here are some ideas to get you started:
+## :sandwich: Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+  -  Django
+  -  Django REST Framework
+- HTML | CSS | JavaScript
+- <details><summary>AWS</summary>Lambda<br>DynamoDB<br>API Gateway<br>RDS<br>Parameter Store<br>IAM Roles, Policies and Policy Attachments<br>Polly</details>
+- Terraform
+- PostgreSQL
+- Docker
+- Linux
+  - Debian
+
+#### Feel free to check out my projects and see exactly how I implement these technologies!
