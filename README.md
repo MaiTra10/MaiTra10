@@ -5,13 +5,14 @@
 ## :sandwich: Tech Stack
 
 <img src="images/new_icons/Python.png" alt=""  height="25"> <img src="images/new_icons/Django.png" alt=""  height="25"> <img src="images/new_icons/DRF.png" alt=""  height="25"><br>
+<img src="images/new_icons/GO.png" alt=""  height="25"><br>
 <img src="images/new_icons/Java.png" alt=""  height="25"><br>
 <img src="images/new_icons/JHC.png" alt=""  height="25"><br>
 <img src="images/new_icons/Terraform.png" alt=""  height="25"><br>
 <img src="images/new_icons/PostgreSQL.png" alt=""  height="25"><br>
 <img src="images/new_icons/Docker.png" alt=""  height="25"><br>
-<img src="images/new_icons/Linux.png" alt=""  height="25"><br>
-<img src="images/new_icons/Debian.png" alt=""  height="25"><br>
-<img src="images/new_icons/Ubuntu.png" alt=""  height="25">
+<img src="images/new_icons/Linux.png" alt=""  height="25"> <img src="images/new_icons/Debian.png" alt=""  height="25"> <img src="images/new_icons/Ubuntu.png" alt=""  height="25">
+
+## <img src="images/aws2.png" alt=""  height="22"> Amazon Web Services Stack
 
 #### Feel free to check out my projects and see exactly how I implement these technologies!
