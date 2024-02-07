@@ -5,5 +5,6 @@
 ## :sandwich: Tech Stack
 
 <img src="images/new_icons/Python.png" alt=""  height="25"> <img src="images/new_icons/Django.png" alt=""  height="25"> <img src="images/new_icons/DRF.png" alt=""  height="25">
+<img src="images/new_icons/Java.png" alt=""  height="25">
 
 #### Feel free to check out my projects and see exactly how I implement these technologies!
