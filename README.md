@@ -15,4 +15,6 @@
 
 ## <img src="images/aws2.png" alt=""  height="22"> Amazon Web Services Stack
 
+<img src="images/new_icons/Lambda.png" alt=""  height="25">
+
 #### Feel free to check out my projects and see exactly how I implement these technologies!
