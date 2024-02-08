@@ -1,19 +1,22 @@
 ## 	:raising_hand_man: Hey, I'm Maitra.
 
-:mortar_board: I am a 3rd year Software Engineering student at the University of Calgary with an interest in backend and cloud development!
+I am currently a Devops Intern @ General Dynamics - Mission Systems and study Software Engineering at the University of Calgary!
+
+I am passionate about backend and cloud development, so to further my knowledge in this field of software, I took a dive into the realm of Go programming... Interning and programming on the side has been a challenge, but I look forward to pushing out a project using Go in the coming months!
 
 ## :sandwich: Tech Stack
 
-- <img src="images/python.png" alt=""  height="15"> Python
-  - <img src="images/django.png" alt=""  height="15"> Django
-  - <img src="images/django.png" alt=""  height="15"> Django REST Framework
-- <img src="images/java.png" alt=""  height="15"> Java
-- <img src="images/web_tech.png" alt=""  height="15"> HTML | CSS | JavaScript
-- <details><summary><img src="images/aws.png" alt=""  height="15"> AWS</summary><img src="images/lambda.png" alt=""  height="15"> Lambda<br><img src="images/dynamodb.png" alt=""  height="15"> DynamoDB<br><img src="images/api_gateway.png" alt=""  height="15"> API Gateway<br><img src="images/rds.png" alt=""  height="15"> RDS<br><img src="images/parameter_store.png" alt=""  height="15"> Parameter Store<br><img src="images/iam.png" alt=""  height="15"> IAM Roles, Policies and Policy Attachments<br><img src="images/polly.png" alt=""  height="15"> Polly</details>
-- <img src="images/terraform.png" alt=""  height="15"> Terraform
-- <img src="images/psql.png" alt=""  height="15"> PostgreSQL
-- <img src="images/docker.png" alt=""  height="15"> Docker
-- <img src="images/linux.png" alt=""  height="15"> Linux
-  - <img src="images/debian.png" alt=""  height="15"> Debian
+<img src="images/new_icons/Python.png" alt=""  height="25"> <img src="images/new_icons/Django.png" alt=""  height="25"> <img src="images/new_icons/DRF.png" alt=""  height="25"><br>
+<img src="images/new_icons/GO.png" alt=""  height="25"><br>
+<img src="images/new_icons/Java.png" alt=""  height="25"><br>
+<img src="images/new_icons/JHC.png" alt=""  height="25"><br>
+<img src="images/new_icons/Terraform.png" alt=""  height="25"><br>
+<img src="images/new_icons/PostgreSQL.png" alt=""  height="25"><br>
+<img src="images/new_icons/Docker.png" alt=""  height="25"><br>
+<img src="images/new_icons/Linux.png" alt=""  height="25"> <img src="images/new_icons/Debian.png" alt=""  height="25"> <img src="images/new_icons/Ubuntu.png" alt=""  height="25">
+
+## <img src="images/aws2.png" alt=""  height="22"> Amazon Web Services Stack
+
+<img src="images/new_icons/Lambda.png" alt=""  height="25"> <img src="images/new_icons/DynamoDB.png" alt=""  height="25"> <img src="images/new_icons/APIgateway.png" alt=""  height="25"> <img src="images/new_icons/RDS.png" alt=""  height="25"> <img src="images/new_icons/Pstore.png" alt=""  height="25"> <img src="images/new_icons/IAM.png" alt=""  height="25"> <img src="images/new_icons/Polly.png" alt=""  height="25">
 
 #### Feel free to check out my projects and see exactly how I implement these technologies!
