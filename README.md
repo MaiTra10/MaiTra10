@@ -1,8 +1,8 @@
 ## 	:raising_hand_man: Hey, I'm Maitra.
 
-I previously interned as a Devops Intern @ General Dynamics and study Software Engineering at the University of Calgary!
+I am an incoming SDE Intern at Amazon, I previously interned as a DevOps Engineer @ General Dynamics, and I study Software Engineering at the University of Calgary!
 
-I am passionate about backend and cloud development, so to further my knowledge in this field of software, I took a dive into the realm of Go programming... Interning and programming on the side has been a challenge, but I look forward to pushing out a project using Go in the future!
+I am passionate about backend and cloud development, so to further my knowledge in this field of software, I took a dive into the realm of Go programming... Interning, going to classes and programming on the side has been a challenge, but I am working on something that has been on the back-burner for some time now. I can't wait to be able to share it. Coming Soon 👀
 
 ## :sandwich: Tech Stack
 
