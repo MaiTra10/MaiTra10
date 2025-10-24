@@ -6,8 +6,8 @@ I am passionate about backend and cloud development, so to further my knowledge 
 
 ## :sandwich: Tech Stack
 
-<img src="images/new_icons/Python.png" alt=""  height="30"> <img src="images/new_icons/Django.png" alt=""  height="30"> <img src="images/new_icons/DRF.png" alt=""  height="30"><br>
 <img src="images/new_icons/GO.png" alt=""  height="30"><br>
+<img src="images/new_icons/Python.png" alt=""  height="30"> <img src="images/new_icons/Django.png" alt=""  height="30"> <img src="images/new_icons/DRF.png" alt=""  height="30"><br>
 <img src="images/new_icons/Java.png" alt=""  height="30"><br>
 <img src="images/new_icons/JHC.png" alt=""  height="30"><br>
 <img src="images/new_icons/Terraform.png" alt=""  height="30"><br>
